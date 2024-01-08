@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\proj\\chatBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\chatBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\chatBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\proj\\chatBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "E:\\proj\\chatBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\proj\\chatBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\proj\\chatBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.chatBlazor.props",
+      "PackagePath": "build\\chatBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.chatBlazor.props",
+      "PackagePath": "buildMultiTargeting\\chatBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.chatBlazor.props",
+      "PackagePath": "buildTransitive\\chatBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.chatBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
